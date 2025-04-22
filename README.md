@@ -1,16 +1,35 @@
-## Hi there 👋
+```yaml
+name: Manan Jain
+located_in: Pune, Indian
+from: Udaipur (Rajasthan)
+Job: Advance Engineering Systems - Digital Engineering
+education: ["Bachelor In Technology", "Computer Science", "Artificial Intelligence and Data Science"]
+institute: Dr Vishwanath Karad Maharashtra Institute of Technology, World Peace University
+past experiences:
+  - ["Full Stack Developer",  "AiRotor Technologies LLP", "Ahmedabad", "March 2025 - Present"]
+  - ["Full Stack Developer",  "AiRotor Technologies LLP", "Ahmedabad", "Jan 2025 - March"]
+  - ["Software Developer", "SHM, QTRacker", "Dext IT Solutions", "Pune", "Aug 2024 - Dec 2024"] 
+  - ["Developer Intern", "Employee Management System", "Markytics", "Pune", "June 2023 -Aug  2023"]
 
-<!--
-**MananJainZensar/MananJainZensar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
 
-Here are some ideas to get you started:
+fields_of_interests: ["Backend Development" , "Data Structures and Algorithms","Artificial Intelligence" ,"Machine Learning"]
+currently_learning: ["Data Structures and Algorihtms", "React", "Next" , "Advance Django", "GraphQL", "NodeJS", "Angular 19"]
+will_learn: ["Artificial Intelligence","Machine Learning", "Completer MERN Stack"]
+hobbies: ["Volleyball","Foorball","Competitive Gaming", "Music"]
+portfolio website : ["manan-portfolio-website.vercel.app/"]
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=doomdybbuk&limit=3&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=doomdybbuk&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+
